@@ -1,0 +1,193 @@
+{
+    "memberDetails": {
+        "memberId": {
+            "value": "419594",
+            "isReadOnly": true
+        },
+        "memberName": {
+            "value": "Mr Robert Austin CPA",
+            "isReadOnly": true
+        },
+        "preferredName": {
+            "value": "Robert",
+            "isReadOnly": true
+        },
+        "phoneNumber": {
+            "value": "02 62514546",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": "^[0][1-9]\\d{9}$|^[1-9]\\d{9}$"
+        },
+        "mobileNumber": {
+            "value": "0401195720",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": "^[0][1-9]\\d{9}$|^[1-9]\\d{9}$"
+        },
+        "faxNumber": {
+            "value": "02 62532048",
+            "isReadOnly": false,
+            "isMandatory": false,
+            "validationRule": ""
+        },
+        "emailAddress": {
+            "value": "crmtest@testcpa.com",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "dateOfLastQA": {
+            "value": "2011-04-11T14:00:00Z",
+            "isReadOnly": true
+        },
+        "cpdTrienniumEnd": {
+            "value": "2011",
+            "isReadOnly": true
+        },
+        "reviewCode": {
+            "value": "A182002",
+            "isReadOnly": true
+        }
+    },
+    "practiceDetails": {
+        "practiceName": {
+            "value": "ABC Pvt. Ltd.",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "insuranceExpiryDate": {
+            "value": "2011-04-11T14:00:00Z",
+            "isReadOnly": true
+        },
+        "policyLimit": {
+            "value": "ABC Pvt. Ltd.",
+            "isReadOnly": true
+        },
+        "numberOfAdditionalPartners": {
+            "value": 2,
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "practiceType": {
+            "value": "Public",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "practicewebsite": {
+            "value": "wwww.test.com",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "tradingAsCPA": {
+            "value": true,
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "trustAccountHeld": {
+            "value": true,
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "professionallyQualifiedStaffCount": {
+            "value": 10,
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "administrationStaffCount": {
+            "value": 5,
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "officeSystemUsed": {
+            "value": "",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "softwareUsed": {
+            "value": "Windows 10, Office",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        },
+        "additionalPartners": {
+            "value": "",
+            "isReadOnly": false,
+            "isMandatory": true,
+            "validationRule": ""
+        }
+    },
+    "registerationsHeld":
+    {
+        "memberLicenses": [
+            {
+                "memberLicenseId": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": true
+                },
+                "registrationNumber": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": false,
+                    "validationRule": "^[0][1-9]\\d{9}$|^[1-9]\\d{9}$"
+                },
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            },
+            {
+                "memberLicenseId": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": true
+                },
+                "registrationNumber": {
+                    "value": "b6942e7c-0441-e811-80fd-0050569a1c9a",
+                    "isReadOnly": false,
+                    "validationRule": "^[0][1-9]\\d{9}$|^[1-9]\\d{9}$"
+                },
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            }
+          ],
+          "licenses": [
+            {
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            },
+            {
+                "licenseName": {
+                    "value": "Registered Tax Agent",
+                    "isReadOnly": true
+                },
+                "licenseId": {
+                    "value": "04439433-c785-e011-bad3-005056b30007",
+                    "isReadOnly": true
+                }
+            }
+          ]
+    }
+}
